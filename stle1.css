@@ -1,5 +1,4 @@
 /* CSS Document */
-@import url('https://github.com/ajeshrj14/adminDiamond/blob/29ff12cd6c979806842a2894c5bcd5255b5c407e/dist/css/style-a.css');
 
 :root{
     --gradientBg: linear-gradient(45deg, #056553, #224660);
@@ -901,3 +900,4 @@ table#tblookup tr td:hover {
     background: #587995 !important;
     color: #fff;
 }
+
