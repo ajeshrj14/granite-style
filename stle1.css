@@ -1,5 +1,5 @@
 /* CSS Documentee */
-
+welcome css
 :root{
     --gradientBg: linear-gradient(45deg, #056553, #224660);
     --tableHeadBg:#1f4f5a;
@@ -900,4 +900,5 @@ table#tblookup tr td:hover {
     background: #587995 !important;
     color: #fff;
 }
+
 
