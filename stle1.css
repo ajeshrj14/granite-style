@@ -1,6 +1,10 @@
-@import url('https://cdn.jsdelivr.net/gh/ajeshrj14/granite-style@refs/heads/main/stle1.css');
-
-
+ @import url('https://cdn.jsdelivr.net/gh/ajeshrj14/granite-style@refs/heads/main/stle1.css');
+ 
+ :root{
+    --gradientBg: linear-gradient(45deg, #056553, #224660);
+    --tableHeadBg:#1f4f5a;
+    --alternateRowBg:#d1dbd9;
+}
 
 /*.tab-box td{background:none !important;}*/
 body:nth-of-type(1) div.gridbox_dhx_skyblue table.hdr tr{background:var(--tableHeadBg) !important;}
