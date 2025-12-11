@@ -111,7 +111,7 @@ a:active {color:#000066; text-decoration:none;}
 }
  .yui-dt-table th,
  .yui-dt-table td {
-    padding:3px 8px 2px 5px; /* cell padding */
+    padding:4px 8px 4px 5px; /* cell padding */
     border-right:1px solid #CBCBCB; /* inner column border */
 }
 

@@ -186,7 +186,10 @@ color: #fff;  font-size: 18px;  top: 10px;    border-radius: 6px 0 0 6px;}
 /* Side popup Style End*/
 
 
- input,select,button {border-radius: 3px;}
+ input,select,button {border-radius: 7px;}
+ input[type="text"],input[type="number"],select {height: 24px; padding: 1px 5px; box-sizing: border-box; border-radius: 7px;}
+textarea {border-radius: 7px;}
+
 .yui-navset .yui-nav .selected a, .yui-navset .yui-nav .selected a em {border-radius: 7px 7px 0 0;}
 .textRight{text-align:right!important;}
 .textCenter{text-align:center!important;}
@@ -227,6 +230,7 @@ fieldset:disabled { opacity: .3;}
 .tab-popup table tbody.alternateRow tr:nth-child(odd) td { background: #313e5a !important;}
 .tab-popup table tbody.alternateRow tr:nth-child(even) td {background: #212a3e !important;}
 .tab-popup table tbody.alternateRow tr td { border: none !important;}
+
 
 
 
@@ -272,6 +276,12 @@ div.gridbox_dhx_skyblue .odd_dhx_skyblue { background-color: var(--alternateRowB
   50%  { transform: scale(1.1); }
   100% { transform: scale(1); }
 }
+
+
+
+
+
+
 
 
 @media (max-width: 1500px) { 
