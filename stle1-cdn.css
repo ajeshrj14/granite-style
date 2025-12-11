@@ -299,7 +299,7 @@ a:active {color:#000066; text-decoration:none;}
 .tab-box {border:1px solid #bbb; float:left;width:49%;margin-left:1px;margin-top:1px;background-color:#F8F2E5;}*/
 .tab-box {border:1px solid #bbb; float:left;width:49%;margin-left:1px;margin-top:1px; background-color:#c8e0b8; background-image:url(../images/tabboxbg.jpg);background-repeat: repeat-x}
 .tab-box th {font-weight:bold;background-color:#9CB6D6; padding:2px; text-align:left;}
-.tab-box td {padding:0px 3px 0px 3px;color:#034d92;}
+.tab-box td {padding:1px 3px 1px 3px;color:#034d92;}
 
 .tab-boxFull {border:1px solid #bbb; width:98%;margin-left:1px;margin-top:1px; background-image:url(../images/tabboxbg.jpg);}
 .tab-boxFull th {font-weight:bold;background-color:#9CB6D6; padding:2px; text-align:left;}
