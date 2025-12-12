@@ -1,4 +1,4 @@
- @import url('https://cdn.jsdelivr.net/gh/ajeshrj14/granite-style@refs/heads/main/stle1-cdn.css');
+ @import url('https://cdn.jsdelivr.net/gh/ajeshrj14/granite-style@main/stle1-cdn.css');
 
  :root{
     --gradientBg: linear-gradient(45deg, #056553, #224660);
