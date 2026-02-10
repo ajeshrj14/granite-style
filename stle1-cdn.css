@@ -310,11 +310,11 @@ a:active {color:#000066; text-decoration:none;}
 .tab-boxA td {padding:3px 1px 3px 1px;background-color:#f2f1ec;} 
 
 .tab-boxD {border:1px solid #ccc;float:left; background-color:#e2e2e2; width:49%;margin-left:2px;margin-top:6px;}
-.tab-boxD th {padding:1px  2px 1px 1px;font-weight:bold;color:#fff;background-color:#7998be; text-align:left;}
-.tab-boxD td {padding:2px 2px 2px 1px;background-color:#9CB6D6; } 
+.tab-boxD th {padding:1px  2px 1px 1px;font-weight:bold;color:#fff;background-color:#4e7178; text-align:left;}
+.tab-boxD td {padding:2px 2px 2px 1px;background-color:#e4f2ef; } 
 
 .tab-boxF {border:1px solid #ccc;float:left; background-color:#e2e2e2; width:49%;margin-left:2px;margin-top:6px;}
-.tab-boxF th {padding:3px 1px 3px 1px;font-weight:bold;color:#fff;background-color:#aaa; text-align:left;}
+.tab-boxF th {padding:3px 1px 3px 1px;font-weight:bold;color:#fff;background-color:#507178; text-align:left;}
 .tab-boxF td {padding:3px 1px 3px 1px;background-color:#FCFCFC;} 
 
 .tab-boxE {border:1px solid #ccc;float:left; background-color:#fff; width:49%;margin-left:2px;margin-top:6px;}
@@ -521,8 +521,8 @@ input#btnSaveLog,input#btnViewLog {width: auto !important;}
 .popwintoolbar {background: linear-gradient(#ab92a9,#674864) !important;}       
 
 #contents{width:100%;}
-.tab-boxE th{background-color: #34648d;}  
-.tab-boxE td {background-color: #8397a9;} 
+.tab-boxE th{background-color:#4c7278;}  
+.tab-boxE td {background-color:#e4f2ef;} 
 #tBodyPendingOrders td { background: #e8e9ea;}   
 
 table#results {border-spacing: 1px; background: #fff;}
